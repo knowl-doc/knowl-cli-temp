@@ -16,4 +16,4 @@ Before you begin, ensure you have met the following requirements:
 To use ToolName, run the following command in your terminal:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/knowl-doc/knowl-cli-temp/main/setup.sh | bash
+curl -sL https://raw.githubusercontent.com/knowl-doc/knowl-cli-temp/master/setup.sh | bash

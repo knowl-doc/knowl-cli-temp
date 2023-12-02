@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PYTHON_SCRIPT_URL="https://raw.githubusercontent.com/knowl-doc/knowl-cli-temp/main/gen_apidocs.py"
+PYTHON_SCRIPT_URL="https://raw.githubusercontent.com/knowl-doc/knowl-cli-temp/master/gen_apidocs.py"
 ALIAS_NAME="knowl"
 
 mkdir -p "$HOME/.knowl"
